@@ -18,7 +18,8 @@ list_2= [1,2,3,4,1,4,2,5,7,1,6,3,6,7,1,5,7,8,9,2]
 print(list_2.count(1))
 
 #To append a element in a list(Keep in Mind : We can add only one element at a time. 
-# We can add a list at the end with any number of elements. We add elements at end only using append function  )
+# We can add a list at the end with any number of elements. 
+# We add elements at end only using append function  )
 print(list_2)
 list_2.append(10)
 print(list_2) 

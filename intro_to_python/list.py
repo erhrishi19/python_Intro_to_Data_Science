@@ -21,10 +21,12 @@ print(list_3[3])
 #Slicing of List
 #To print all the elements in the list 
 print(list_3[:])
-#To print the elements from index 1 to end (Keep in Mind : Indexing always starts from 0 )
+#To print the elements from index 1 to end
+# (Keep in Mind : Indexing always starts from 0 )
 print(list_3[1:])
 #To print elements for index 0 to index 3
-#In slicing, before colon position is starting position of list, and after colon is upto but not included position
+#In slicing, before colon position is starting position of list, 
+# and after colon is upto but not included position
 print(list_3[:4])
 
 
