@@ -7,7 +7,7 @@ print(set_1)
 
 # Creating a empty set is little but tricky. Because, it is a Dictionary.
 # As we can see below 
-# Sets are non-mutable(Cannot ne changed) and Duplicate entries are removed. 
+# Sets are non-mutable(Cannot be changed) and Duplicate entries are removed. 
 set_2={}
 print(type(set_2))
 # We can create a empty list by using set() funtion 
